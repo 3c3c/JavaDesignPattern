@@ -3,3 +3,9 @@
 .idea
 .gradle
 /classes/
+/gradle
+/gradlew.bat
+/settings.gradle
+/gradlew
+
+
